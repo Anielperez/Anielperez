@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Sr. Software Developer & Mentor 👨‍💻</h1>
+<h1 align="center">🚀 Sr. Software Developer 👨‍💻</h1>
 
 ## 📝 About Me
 
