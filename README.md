@@ -2,11 +2,11 @@
 
 ## 📝 About Me
 
-👋 Hi, I'm **Wellington Adames**, a passionate **Software Architect & Full Stack Developer** with experience in:
+👋 Hi, I'm **Aniel Perez**, a passionate **Software Architect & Full Stack Developer** with experience in:
 - 🔹 **Backend:** Java (Spring Boot), Python
 - 🔹 **Frontend:** Angular, React
-- 🔹 **Cloud & DevOps:** AWS, Kubernetes, Docker, CI/CD
-- 🔹 **Databases:** SQL & NoSQL
+- 🔹 **Cloud & DevOps:** AWS, 
+- 🔹 **Databases:** SQL & mySQL
 - 🎙️ Enthusiastic about sharing knowledge through mentorship & talks.
 - 🏡 Working remotely and always looking for new challenges!
 
