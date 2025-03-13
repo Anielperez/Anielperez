@@ -3,7 +3,7 @@
 ## 📝 About Me
 
 👋 Hi, I'm **Aniel Perez**, a passionate **Software Architect & Full Stack Developer** with experience in:
-- 🔹 **Backend:** Java (Spring Boot), Python
+- 🔹 **Backend:** Java (Spring Boot), Python.
 - 🔹 **Frontend:** Angular, React
 - 🔹 **Cloud & DevOps:** AWS, 
 - 🔹 **Databases:** SQL & mySQL
